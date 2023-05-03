@@ -21,6 +21,7 @@ Ping me on tayalpushpal@gmail.com for collaborations.
 
 
  
+![Capture](https://user-images.githubusercontent.com/56218284/235901400-0a9de245-6c76-46fe-a90f-a39483d54c4a.JPG)
 
 
 
