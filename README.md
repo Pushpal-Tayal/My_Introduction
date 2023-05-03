@@ -1,13 +1,5 @@
 # Pushpal Tayal- Projects Portfolio
-##Index
-This github accounts hold all my personal projects that I've done over the years. Currently they are organised in three different repositories:
-
-1. Basic Python Projects:
-2. GUI Projects:
-
-Each repository is accompanied with a variety of projects and is accompanied with some form of documentation.
-
-##Background
+## My Background
 
 Hello!
 
@@ -15,13 +7,17 @@ My name is Pushpal Tayal and welcome to my github profile. A little bit about me
 
 Now I focus on programming for whatever problem comes my way, automating the processes wherever I can and conducting analysis on topics that interests me.
 
+## Index
+
+This github accounts hold all my personal projects that I've done over the years. Currently they are organised in three different repositories:
+
+1. Basic Python Projects:
+2. GUI Projects:
+
+Each repository is accompanied with a variety of projects and is accompanied with some form of documentation.
+
 Ping me on tayalpushpal@gmail.com for collaborations.
 
-
-:+1:
-
- 
-![Capture](https://user-images.githubusercontent.com/56218284/235901400-0a9de245-6c76-46fe-a90f-a39483d54c4a.JPG)
 
 
 
