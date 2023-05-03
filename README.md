@@ -1,4 +1,3 @@
-# Pushpal Tayal- Projects Portfolio
 ## My Background
 
 Hello!
