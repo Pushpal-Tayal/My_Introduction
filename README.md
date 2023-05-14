@@ -8,10 +8,7 @@ Now I focus on programming for whatever problem comes my way, automating the pro
 
 ## Index
 
-This github accounts hold all my personal projects that I've done over the years. Currently they are organised in three different repositories:
-
-1. Basic Python Projects:
-2. GUI Projects:
+This github accounts hold all my personal projects that I've done over the years. Currently they are organised in three different repositories.
 
 Each repository is accompanied with a variety of projects and is accompanied with some form of documentation.
 
